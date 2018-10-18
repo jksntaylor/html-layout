@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    min-height: 500px; 
+    margin: 0;
+}
+nav {
+    height: 15%;
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-left: 20px;
+    overflow: hidden;
+}
+
+.blue-box {
+    height: 75px;
+    width: 10%;
+    background-color: blue;
+}
+
+.text-content {
+    height: 30%;
+    font-size: 16px;
+    font-family: 'Verdana', sans-serif;
+    font-weight: 200;
+    padding: 50px;
+    padding-bottom: 0;
+    margin-bottom: 50px;
+}
+
+p {
+    margin: 0;
+    text-align: justify;
+}
+
+.color-content {
+    height: 47%;
+}
+
+.a {
+    height: 25%;
+    width: 100%;
+    /* background-color: black; */
+}
+
+.blue {
+    background-color: blue;
+}
+
+.aqua {
+    background-color: aqua;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.yellow {
+    background-color: yellow;
+}
